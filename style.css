@@ -17,7 +17,7 @@ main{
 .iphone{
     position: absolute;
     top: 50%;
-    left: 54%;
+    left: 50%;
     transform: translate(-50%,-50%);
     width: 500px;
     height: 520px;
@@ -29,9 +29,9 @@ main{
 .iphone > iframe{
     position: absolute;
     top: 68px;
-    left: 20px;
-    width: 215px;
-    height: 390px;
+    left: 18px;
+    width: 217px;
+    height: 385px;
 }
 .sociais{
     text-align: right;
